@@ -1,0 +1,21 @@
+github:
+  description: Let Lithoids Terravore civics can terraform and use Hive world Ancesion perks in Stellaris.
+  enable_discussions: false
+  enable_issues: false
+  enable_projects: false
+  enable_wiki: false
+  homepage: https://github.com/DarkbordermanModding/Stellaris-TerravoreHiveWorld
+  template: false
+  topics:
+    - mod
+    - stellaris
+    - stellaris-mod
+workshop:
+  app_id: 281990
+  publishedfield_id: 3335719438
+  title: "Terravore Hive World"
+  description: "Let Lithoids Terravore civics can terraform and use Hive world Ancesion perks"
+  visibility: 2
+  preview_path: preview.png
+  content_folder: "./"
+  tags: [Gameplay]
